@@ -15,19 +15,16 @@ linguagens como Python, Java, JavaScript, além de frameworks e ferramentas como
 - ✅ Completar os 41 cursos obrigatórios da trilha
 - ✅ Realizar todos os desafios de projeto e código
 - 🔄 Atualizar este repositório conforme avanço
-- 🥇 Alcançar o Top 250 do ranking da plataforma
-- 🎓 Obter o certificado + voucher AWS
-- 🚀 Conseguir uma oportunidade na área de tecnologia
+- 🥇 Alcançar o Top 500 do ranking da plataforma
+- 🎓 Obter o certificado
+- 🚀 Conseguir mais conhecimento para futura oportunidade na área de tecnologia
 
 ## 🔎 Organização do Repositório
 
 - `README.md` | Visão geral do projeto |
 - `Cursos e Anotações` | Notas e resumos dos 41 cursos realizados |
-- `Projetos` | Desafios práticos e códigos aplicados |
 - `Certificados` | Certificados de conclusão obtidos ao longo do bootcamp |
   
-  →  *ℹ️ O repositório será atualizado continuamente à medida que eu avanço na jornada dos desafios práticos.*
-
 
 ## 📎 Links úteis
 
