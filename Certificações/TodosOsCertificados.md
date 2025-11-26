@@ -4,6 +4,15 @@
 
 - [Introdução à AWS e ao Universo da Computação em Nuvem](https://assets.dio.me/75r0iCT02jQo6vro34QJ4nEJMKct-4_KjO-aDpbxK-I/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9aR1JOSVRIVy5qcGc)
 - [Fundamentos Essenciais da Infraestrutura AWS](https://assets.dio.me/eOOsKUXDcg_jxjjoJihmyNAHL1DRsQe3P82iyibUf68/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9UVlFRSUVLRy5qcGc)
+- [Banco de Dados na AWS](https://assets.dio.me/PnELH0-qBpUTKv0vO8xqMhgvFjUNGIM0owoN6-HML1o/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9VUEFGUElQMi5qcGc)
+- [Computação na Nuvem com EC2](https://assets.dio.me/YkFLh4xZgiviiTuF3NBjVgPXCE-uln738TSpH9I_2Xs/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9UVkVBRTlGWi5qcGc)
+- [Criando Recursos na AWS](https://assets.dio.me/uup2SeduaIIE73Bk5YTnazngKEoXETZylv6n_1UYNrA/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci84SEpSV1JQVy5qcGc)
+- [Gerenciando Instâncias EC2 na AWS](https://assets.dio.me/bzzEdVsjXOTmrHh6ZpyGCvtn8YWaDJ8DMWBnmL40PpQ/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9UUzhFSEVMTS5qcGc)
+- [Redes na AWS](https://assets.dio.me/jTouumo88LZQiYHl-2J3jX2BRBTY7p4Fc1wHTpqLEqc/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9LNUZTUFc3MS5qcGc)
+- [Serviços de Armazenamento e CDN](https://assets.dio.me/ObypZ5VfoX6mBrnL5ojRwJe3PVLZkIBWItplMpfUGtk/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci83VjNSR1VDMy5qcGc)
+- [Segurança na AWS](https://assets.dio.me/mnHPHAkmo6Y8_3fnTx0tk1m_KqL4gvsrzz2yJRQ1F2c/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9WRjNJVVU2TS5qcGc)
+
+
 - [Configurando sua Conta AWS com Segurança e Eficiência ](https://assets.dio.me/9G3hwNlwhjujEkubVGBL0JEsOR0PF-qwWUOkJnxABcg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9RMjExVUJOUy5qcGc)
 - [Primeiros Passos com Acesso Seguro e Controle de Custos na AWS](https://assets.dio.me/61iSsStpxG4ZA7attd8q_Wy1O6U5E7EdmXwvfJaJcWw/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9RQk1TVEFCNS5qcGc)
 - [Introdução à AWS e Conceitos Básicos](https://assets.dio.me/QxNZsIYK8KmyY0ETeqFs9savtzbQvXmMJkRcAzuVV0I/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9UM1FLQVZBVC5qcGc)
@@ -19,6 +28,19 @@
 - [Entendendo o que é o Amazon RDS](https://assets.dio.me/TmOYEGw-6XNCDBM1XmtYfv7auqHl4lA3kC2e-TlitxU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9DTkJYSDRMWi5qcGc)
 - [Introdução ao Amazon DynamoDB](https://assets.dio.me/F0Fk60zhqnLEVZiHJHg4osU8Qod41kmWDUhmzDxvv8c/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9FNzVORFNFMS5qcGc)
 - [Explorando Estratégias de Backup e Recuperação de Dados na AWS](https://assets.dio.me/QeXtd4TWrqdhjtNZlfvkH2lL9PSMEpBiEW1se4cym8Q/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci84SVVIQ05EOC5qcGc)
-- [Banco de Dados na AWS](https://assets.dio.me/PnELH0-qBpUTKv0vO8xqMhgvFjUNGIM0owoN6-HML1o/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9VUEFGUElQMi5qcGc)
 - [Explorando Práticas Recomendadas de Segurança na Nuvem](https://assets.dio.me/lq3BfAtrm3ThgbzhBiQLF3PMZFgN7x9O6sqldYABORE/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9ESDcxSVo1Ty5qcGc)
-- 
+- [Entendendo a Criptografia de Dados na AWS](https://assets.dio.me/BYnuO-tfGBakKgtwAS2UpMcikll14BDZ7CHuqC6DZAA/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci80MlhITkNYSC5qcGc)
+- [Protegendo Aplicações Web com AWS WAF](https://assets.dio.me/IY-_8cvtZhLvjwB_yCe4B19D8XP3OeryJnqqR7rHPis/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9EVzUxTTJPVi5qcGc)
+- [Segurança na AWS](https://assets.dio.me/mnHPHAkmo6Y8_3fnTx0tk1m_KqL4gvsrzz2yJRQ1F2c/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9WRjNJVVU2TS5qcGc)
+- [Introdução à Distribuição de Conteúdo com Amazon CloudFront](https://assets.dio.me/whcJz4ZNBj5Dfd3PwjRvDCDfb_BWQHkI-liPnqH_SAI/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci83QzVBVzlORS5qcGc)
+- [Entendendo o que é o Amazon Elastic Load Balancer](https://assets.dio.me/rRMIw2_xZ-JBbAAGgBoqL0LkOhitZPM-qrd1Sj2L5MY/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci84SlRGVUM2VC5qcGc)
+- [Redes na AWS](https://assets.dio.me/jTouumo88LZQiYHl-2J3jX2BRBTY7p4Fc1wHTpqLEqc/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9LNUZTUFc3MS5qcGc)
+- [Introdução ao Amazon S3](https://assets.dio.me/M2LwdMSpkh9xj2yYbnW-FH9r741Wdd8Lp5zaSKrZ0mI/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci83OUdBNEVWVy5qcGc)
+- [Conhecendo o Amazon Glacier](https://assets.dio.me/_-K5r7M3QRc6lIplIZTMbf_ZC7ozyCIRdCm1CJCQ5v8/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9LV0NMSzFGQi5qcGc)
+- [Entendendo a Distribuição de Conteúdo com Amazon CloudFront](https://assets.dio.me/BOgGkkKAg6XInSInoq8LAPAaGR4gGHt6rXmoifrB0Kk/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9XWEFRSjBRRC5qcGc)
+- [Entendendo como Funciona o AWS Lambda](https://assets.dio.me/Z-nG2YX8BEbzeJZAI_Z28btXxIkaad8ram1-EQimj2Y/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9VQktKM0M5UC5qcGc)
+- [Entendendo o que são Amazon ECS e EKS na Orquestração de Containers](https://assets.dio.me/lxYHCOQHMELrkU2czcVKXU0Aua69VEkqTynMOqJ78IM/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9NSFk5VUJJOC5qcGc)
+- [Entendendo como Funcionam o Amazon SNS e SQS na Comunicação Assíncrona](https://assets.dio.me/86GoxltysCqO9YX1okpCcytLNIQqmIvJOeoh4SpCm1U/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci80R1ZUUFlFWi5qcGc)
+- [Entendendo o que é o AWS CloudWatch](https://assets.dio.me/MGHxbODWEFO--MmGn5Th8MSHwl1VVYRVofHxaLhJ-2I/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9SUFVVS1VCRy5qcGc)
+- [Fundamentos do AWS CloudTrail para Auditoria e Segurança na AWS](https://assets.dio.me/k1Y8N0QmxOtWe2OY9_s-g7vTKwK22pl9NcbtRYdbv3I/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9UVFE0SjcwQi5qcGc)
+
