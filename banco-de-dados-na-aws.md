@@ -27,7 +27,7 @@ O Amazon RDS suporta vários mecanismos de banco de dados como: MySQL, PostgreSQ
 - Desempenho otimizado
   > Com opções como armazenamento SSD e replicação de leitura.
 
-📌 Quando usar o RDS?
+📌 Quando usar?
 
 Ele é ideal quando você precisa de um banco de dados relacional (SQL) sem querer gerenciar a infraestrutura por conta própria.
 
@@ -69,4 +69,25 @@ Multi-Region Active-Active: Todo o sistema funcionando em múltiplas regiões si
 - Use criptografa e segurança de acessos.
 - Testar rotinas de recuperação regularmente.
 - Faça monitoramento e auditoria.
+
+
+<h1> Amazon DynamoDB </h1>
+
+O Amazon DynamoDB é um banco de dados NoSQL totalmente gerenciado da AWS, projetado para oferecer alta performance, escalabilidade automática e baixa latência. Ele permite armazenar dados não relacionais em tabelas, usando chaves primárias para consultas rápidas, sem a complexidade de gerenciar servidores.
+
+
+⚡ Características principais
+Totalmente gerenciado.
+Alta disponibilidade e durabilidade.
+Baixa latência.
+Escalabilidade automática.
+Suporte a dados estruturados e semi-estruturados.
+Integração com outros serviços AWS.
+
+🧩 Quando usar?
+Aplicações web e mobile.
+Gaming.
+IoT.
+E-commerce.
+
 
