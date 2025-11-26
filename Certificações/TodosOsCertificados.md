@@ -1,4 +1,4 @@
-<img width="450" height="319" alt="image" src="https://github.com/user-attachments/assets/d5fbf43e-e987-4e0e-8d2b-1eac4c15bd4e" /><img width="450" height="319" alt="image" src="https://github.com/user-attachments/assets/9ad900cd-9d60-48cb-8406-5e357cad03bc" /><img width="450" height="319" alt="image" src="https://github.com/user-attachments/assets/628ff188-9a1d-4884-953f-a392ef2289d7" />## 🏅 Certificados
+## 🏅 Certificados
 
 ![Certificado Santander Code Girls - 2025](https://assets.dio.me/wNEnhW5F_0AnFaugrqNGX7pOqZLuhkSn16QuaqUvCtI/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9RWEw0WFZPQi5qcGc)] 
 
