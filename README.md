@@ -22,7 +22,7 @@ linguagens como Python, Java, JavaScript, além de frameworks e ferramentas como
 ## 🔎 Organização do Repositório
 
 - `README.md` | Visão geral do projeto |
-- `Cursos e Anotações` | Notas e resumos dos 41 cursos realizados |
+- `Conteúdos` | Notas e resumos dos 41 cursos realizados |
 - `Certificados` | Certificados de conclusão obtidos ao longo do bootcamp |
   
 
