@@ -77,17 +77,17 @@ O Amazon DynamoDB é um banco de dados NoSQL totalmente gerenciado da AWS, proje
 
 
 ⚡ Características principais
-Totalmente gerenciado.
-Alta disponibilidade e durabilidade.
-Baixa latência.
-Escalabilidade automática.
-Suporte a dados estruturados e semi-estruturados.
-Integração com outros serviços AWS.
+- Totalmente gerenciado.
+- Alta disponibilidade e durabilidade.
+- Baixa latência.
+- Escalabilidade automática.
+- Suporte a dados estruturados e semi-estruturados.
+- Integração com outros serviços AWS.
 
 🧩 Quando usar?
-Aplicações web e mobile.
-Gaming.
-IoT.
-E-commerce.
+- Aplicações web e mobile.
+- Gaming.
+- IoT.
+- E-commerce.
 
 
