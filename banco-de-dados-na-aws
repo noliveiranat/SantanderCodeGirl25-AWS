@@ -1,1 +1,80 @@
+# Amazon RDS
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O que é Amazon RDS?</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f6f9;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2d72d9;
+            text-align: center;
+        }
+        h2 {
+            color: #333;
+            margin-top: 30px;
+        }
+        ul {
+            line-height: 1.7;
+        }
+        .tag-list li {
+            margin-bottom: 6px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>O que é o Amazon RDS?</h1>
+
+    <p><strong>Amazon RDS (Relational Database Service)</strong> é um serviço gerenciado da AWS que simplifica a criação, operação e escalabilidade de bancos de dados relacionais na nuvem.</p>
+
+    <h2>💡 O que ele faz?</h2>
+    <ul>
+        <li>Provisionamento automático de hardware</li>
+        <li>Instalação e configuração do banco de dados</li>
+        <li>Backups automáticos</li>
+        <li>Atualizações e patches de segurança</li>
+        <li>Monitoramento e métricas</li>
+        <li>Replicação e alta disponibilidade (Multi-AZ)</li>
+    </ul>
+
+    <h2>🗄️ Bancos de dados suportados</h2>
+    <ul class="tag-list">
+        <li>MySQL</li>
+        <li>PostgreSQL</li>
+        <li>MariaDB</li>
+        <li>Oracle</li>
+        <li>Microsoft SQL Server</li>
+        <li>Amazon Aurora (compatível com MySQL e PostgreSQL)</li>
+    </ul>
+
+    <h2>🚀 Benefícios principais</h2>
+    <ul>
+        <li><strong>Gerenciamento simplificado:</strong> você não precisa cuidar do servidor ou tarefas operacionais complexas.</li>
+        <li><strong>Escalabilidade:</strong> aumente CPU, memória ou armazenamento com facilidade.</li>
+        <li><strong>Alta disponibilidade:</strong> Multi-AZ e snapshots facilitam a resiliência.</li>
+        <li><strong>Desempenho otimizado:</strong> com opções como SSD e réplicas de leitura.</li>
+    </ul>
+
+    <h2>📌 Quando usar o RDS?</h2>
+    <p>Ideal para aplicações que precisam de um banco de dados relacional (SQL) sem a necessidade de gerenciar a infraestrutura manualmente.</p>
+</div>
+
+</body>
+</html>
